@@ -1,1 +1,1 @@
-bash ./symlink_home_files.sh
+bash ~/.dotfiles/symlink_home_files.sh
