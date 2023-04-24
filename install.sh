@@ -1,4 +1,3 @@
-# https://www.gitpod.io/docs/configure/user-settings/dotfiles
 current_dir="$(cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd)"
 dotfiles_source="${current_dir}/home_files"
 
